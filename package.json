@@ -1,0 +1,7 @@
+{
+  "name": "refactor-guide",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Levente Balogh <balogh.levente.hu@gmail.com>",
+  "license": "MIT"
+}
