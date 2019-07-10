@@ -3,5 +3,12 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Levente Balogh <balogh.levente.hu@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.5",
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "rimraf": "^2.6.3",
+    "yargs": "^13.2.4"
+  }
 }
